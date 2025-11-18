@@ -1,0 +1,14 @@
+{
+    "musicians": [
+        {
+            "name": "JW 'Broken Veteran'",
+            "description": "a dutch protest musician who makes songs against the creating of new asylum shelters",
+            "links": [
+                {
+                    "link": "https://open.spotify.com/artist/7vpoGzvUHw31dnQlyd5YSW?si=tR0VimhVT-aqXM1yeghsJw",
+                    "service": "Spotify"
+                }
+            ]
+        }
+    ]
+}
